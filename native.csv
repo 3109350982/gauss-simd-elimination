@@ -1,0 +1,6 @@
+n,version,time_ms,speedup,max_abs_diff
+512,serial,14.7065,1,0
+512,sse_unaligned,17.7369,0.829147,0
+512,avx_unaligned,11.1963,1.31351,0
+512,avx_aligned,10.5075,1.39962,0
+512,avx_unroll4,11.053,1.33054,0

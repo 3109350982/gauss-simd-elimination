@@ -1,0 +1,3 @@
+n,version,time_ms,speedup,max_abs_diff
+512,serial,37.7349,1,0
+512,sse_unaligned,17.1263,2.20333,0

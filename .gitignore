@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.obj
+*.out
+*.log
+*.aux
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.xdv
+.vscode/
+build/
