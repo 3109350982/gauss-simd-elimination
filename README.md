@@ -11,8 +11,6 @@
 gauss_simd_2413121_林科融/
 ├── src/main.cpp
 ├── docs/
-│   ├── report_林科融_2413121.pdf
-│   ├── report_林科融_2413121.tex
 │   ├── AI_QA_record.md
 │   └── figures/
 ├── scripts/
