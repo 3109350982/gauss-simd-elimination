@@ -81,13 +81,3 @@ g++ -std=c++17 -O3 -march=native .\src\main.cpp -o gauss_native.exe
 .\gauss_native.exe --sizes 512 --reps 3 --csv native.csv
 ```
 
-## 报告说明
-
-已生成报告文件：
-
-```text
-docs/report_林科融_2413121.pdf
-docs/report_林科融_2413121.tex
-```
-
-报告首页已经填入姓名和学号。GitHub 链接需要在你上传仓库后填入。
